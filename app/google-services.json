@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "385005173448",
+    "project_id": "mcc-ass",
+    "storage_bucket": "mcc-ass.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385005173448:android:55ca2070446154e1f783fd",
+        "android_client_info": {
+          "package_name": "com.gsg.mccassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385005173448-q4ccnf3ojp9g4p6brlov7j84qannes8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA-7dW3ldrVdOLevmCJDkYG2nwm38axRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385005173448-q4ccnf3ojp9g4p6brlov7j84qannes8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
